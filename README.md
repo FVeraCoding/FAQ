@@ -1,4 +1,4 @@
-# Citas Célebres Generales.
+# Página de Preguntas Frecuentes.
 
 [Ver el proyecto desplegado aquí](https://strong-maamoul-32eaed.netlify.app)
 
