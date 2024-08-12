@@ -19,8 +19,8 @@ Este proyecto es una página web desarrollado con HTML, CSS y JavaScript. Esta p
 ## Capturas de Pantalla
 
 ### Vista de Escritorio
-![Vista Escritorio](design/desktop-design.png)
-![Vista Móvil](design/mobile-design.png)
+![Vista Escritorio](design/desktop-design.jpg)
+![Vista Móvil](design/mobile-design.jpg)
 
 ## Instalación
 
