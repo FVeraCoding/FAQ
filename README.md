@@ -20,6 +20,8 @@ Este proyecto es una página web desarrollado con HTML, CSS y JavaScript. Esta p
 
 ### Vista de Escritorio
 ![Vista Escritorio](design/desktop-design.jpg)
+
+### Vista de Móvil
 ![Vista Móvil](design/mobile-design.jpg)
 
 ## Instalación
